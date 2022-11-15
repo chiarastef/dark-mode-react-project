@@ -4,11 +4,11 @@ Course exclusive project from [React Projects](https://react-projects.netlify.ap
 
 ## Link
 
-- [Project URL]() (hosted on Netlify)
+- [Project URL](https://dark-mode-react-website.netlify.app/) (hosted on Netlify)
 
 ## Screenshot
 
-<!-- <img src="./screenshots/dark-mode-website-preview.png" alt="Dark Mode website preview" width="600px"> -->
+<img src="./screenshots/dark-mode-website-preview.png" alt="Dark Mode website preview" width="600px">
 
 ## Project
 
